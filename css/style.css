@@ -1,0 +1,119 @@
+
+.fusion-secondary-header {
+    padding: 0px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+ .fusion-secondary-header {
+    border-top-color: #000000;
+}
+.fusion-header-v2 .fusion-secondary-header {
+    border-top: 3px solid transparent;
+}
+@media only screen and (max-width: 1050px)
+.fusion-secondary-header {
+    background-color: rgb(255,229,0);
+}
+.fusion-secondary-header {
+    background-color: #ffe500;
+    font-size: 13px;
+    color: #000000;
+    border-bottom-color: #000000;
+}
+
+.fusion-header-v2 .fusion-header, .fusion-header-v3 .fusion-header, .fusion-header-v4 .fusion-header, .fusion-header-v5 .fusion-header, .fusion-secondary-header, .fusion-secondary-main-menu {
+    border-bottom: 1px solid transparent;
+}
+* {
+    box-sizing: border-box;
+}
+
+th
+{
+    padding: 20px;
+}
+div {
+    display: block;
+}
+#reviews #comments > h2, #wrapper .fusion-tabs-widget .tab-holder .news-list li .post-holder .meta, #wrapper .meta, .fusion-blog-timeline-layout .fusion-timeline-date, .fusion-main-menu .fusion-custom-menu-item-contents, .fusion-rollover .price .amount, .post .post-content, .post-content blockquote, .project-content .project-info h4, .quantity, .quantity .minus, .quantity .plus, .quantity .qty, .review blockquote div, .search input, .sidebar .fusion-tabs-widget .tab-holder .tabs li a, .sidebar .jtwt, .sidebar .widget .recentcomments, .sidebar .widget_archive li, .sidebar .widget_categories li, .sidebar .widget_layered_nav li, .sidebar .widget_links li, .sidebar .widget_meta li, .sidebar .widget_nav_menu li, .sidebar .widget_pages li, .sidebar .widget_product_categories li, .sidebar .widget_recent_entries li, .title-row, body, body .sidebar .fusion-tabs-widget .tab-holder .tabs li a {
+    color: #000000;
+}
+#slidingbar-area .slide-excerpt h2, #slidingbar-area ul, .counter-box-content, .fusion-alert, .fusion-blog-layout-timeline .fusion-timeline-date, .fusion-footer-widget-area .slide-excerpt h2, .fusion-footer-widget-area ul, .fusion-progressbar .progress-title, .fusion-tabs-widget .tab-holder .news-list li .post-holder .meta, .fusion-tabs-widget .tab-holder .news-list li .post-holder a, .gform_wrapper .gfield_description, .gform_wrapper label, .jtwt .jtwt_tweet, .post-content blockquote, .project-content .project-info h4, .review blockquote q, .sidebar .jtwt .jtwt_tweet, .sidebar .slide-excerpt h2, body {
+    font-size: 20px;
+}
+#nav ul li ul li a, #reviews #comments > h2, #side-header .fusion-contact-info, #side-header .header-social .top-menu, #sticky-nav ul li ul li a, #wrapper #nav ul li ul li > a, #wrapper #sticky-nav ul li ul li > a, .avada-container h3, .comment-form input[type="submit"], .ei-title h3, .fusion-accordian .panel-body, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content .fusion-rollover-categories, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content .fusion-rollover-title, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content .price, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content a, .fusion-main-menu .sub-menu, .fusion-main-menu .sub-menu li a, .fusion-megamenu-widgets-container, .fusion-megamenu-wrapper .fusion-megamenu-submenu > a:hover, .fusion-megamenu-wrapper li .fusion-megamenu-title-disabled, .fusion-page-title-bar h3, .gform_page_footer input[type=button], .meta .fusion-date, .more, .post-content blockquote, .review blockquote div strong, .review blockquote q, .ticket-selector-submit-btn[type=submit], body {
+    line-height: 1.87;
+}
+#bbp_user_edit_submit, #nav ul li ul li a, #reviews #comments > h2, #sticky-nav ul li ul li a, #wrapper #nav ul li ul li > a, #wrapper #sticky-nav ul li ul li > a, .avada-container h3, .comment-form input[type="submit"], .ei-title h3, .fusion-blog-shortcode .fusion-timeline-date, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content .fusion-rollover-categories, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content .fusion-rollover-title, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content .price, .fusion-image-wrapper .fusion-rollover .fusion-rollover-content a, .fusion-load-more-button, .fusion-main-menu .sub-menu, .fusion-main-menu .sub-menu li a, .fusion-megamenu-widgets-container, .fusion-megamenu-wrapper .fusion-megamenu-submenu > a:hover, .fusion-megamenu-wrapper li .fusion-megamenu-title-disabled, .fusion-page-title-bar h3, .gform_page_footer input[type=button], .meta .fusion-date, .more, .post-content blockquote, .review blockquote div strong, .review blockquote q, .ticket-selector-submit-btn[type=submit], .widget.woocommerce .product-title, .woocommerce .shipping-calculator-form .button, .woocommerce-success-message .button, .wpcf7-form input[type="submit"], body {
+    font-family: Karla, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+}
+body {
+    margin: 0;
+    color: #747474;
+    min-width: 320px;
+    -webkit-text-size-adjust: 100%;
+    font: 13px/20px PTSansRegular,Arial,Helvetica,sans-serif;
+}
+ .fusion-social-networks-wrapper
+{
+    margin: 0 -10px;
+    padding-left: 100px;
+}
+.fusion-alignright {
+    width: 100%;
+    float: none;
+    display: block;
+}
+.fusion-secondary-menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.fusion-body .fusion-mobile-menu-design-modern .fusion-secondary-menu > ul > li {
+    float: none;
+}
+
+.fusion-header
+{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+        background-color: #ffffff;
+        fo
+
+}
+.fusion-logo-link
+{
+    padding-left: 100px;
+}
+
+body {
+  text-align: center;
+  background: #fcfcfa;
+  color: #000000;
+  font-family: Futura, sans-serif;
+}
+
+.text-divider{margin: 2em 0; line-height: 0; text-align: center;}
+.text-divider span{padding: 1em;}
+.text-divider:before{ content: "abc "; display: block; border-top: 1px solid #e3e3e3; border-bottom: 1px solid #f7f7f7;}
+
+.frame {
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+}
+.zoomin img {
+  height: 200px;
+  width: 200px;
+  -webkit-transition: all 2s ease;
+     -moz-transition: all 2s ease;
+      -ms-transition: all 2s ease;
+          transition: all 2s ease;
+}
+.zoomin img:hover {
+  width: 300px;
+  height: 300px;
+}
